@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ms_cloud_01/ms_cloud_01.iml" filepath="$PROJECT_DIR$/ms_cloud_01/ms_cloud_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms_cloud_02_apicommon/ms_cloud_02_apicommon.iml" filepath="$PROJECT_DIR$/ms_cloud_02_apicommon/ms_cloud_02_apicommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms_cloud_03_provider_product_8001/ms_cloud_03_provider_product_8001.iml" filepath="$PROJECT_DIR$/ms_cloud_03_provider_product_8001/ms_cloud_03_provider_product_8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms_cloud_04_consumer_80/ms_cloud_04_consumer_80.iml" filepath="$PROJECT_DIR$/ms_cloud_04_consumer_80/ms_cloud_04_consumer_80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms_cloud_05_eureka_6001/ms_cloud_05_eureka_6001.iml" filepath="$PROJECT_DIR$/ms_cloud_05_eureka_6001/ms_cloud_05_eureka_6001.iml" />
+    </modules>
+  </component>
+</project>
